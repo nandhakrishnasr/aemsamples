@@ -1,0 +1,39 @@
+{
+"title_text_asset": {
+					"jcr:primaryType": "nt:unstructured",
+					"jcr:createdBy": "admin",
+					"jcr:lastModifiedBy": "admin",
+					"jcr:created": "Thu May 07 2020 17:35:37 GMT+0530",
+					"alt": "test",
+					"link": "/content/atvi/support/web/en/homepage/support/onlineservices",
+					"text": "<p>This is testing</p>\n",
+					"title": "Testing",
+					"jcr:lastModified": "Thu May 07 2020 19:59:41 GMT+0530",
+					"sling:resourceType": "tmna-commons/components/content/title-text-asset",
+					"textIsRich": "true",
+					"displayFormat": "button",
+					"dynamic-image": {
+						"jcr:primaryType": "nt:unstructured",
+						"fileReference": "/content/dam/core-components-examples/library/sample-assets/mountain-range.jpg",
+						"jcr:lastModifiedBy": "admin",
+						"jcr:lastModified": "Thu May 07 2020 19:59:41 GMT+0530"
+					},
+					"subtitle": {
+						"jcr:primaryType": "nt:unstructured",
+						"item0": {
+							"jcr:primaryType": "nt:unstructured",
+							"subtitle": "Burger"
+						}
+					},
+					"cta": {
+						"jcr:primaryType": "nt:unstructured",
+						"item0": {
+							"jcr:primaryType": "nt:unstructured",
+							"target": "true",
+							"hexaCode": "#00000",
+							"path": "/content/wknd/en/salesforcedemo",
+							"ctaText": "Burger Button Label"
+						}
+					}
+				}
+			}
